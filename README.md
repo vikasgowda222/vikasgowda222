@@ -14,8 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I work on building full-stack web applications using React, Node.js, and Python, with a focus on clean APIs, maintainable code, and practical, real-world solutions. <br>I enjoy collaborating on backend or full-stack projects that require clear problem-solving, thoughtful design, and reliable implementation. <br>I’m currently strengthening my understanding of backend architecture, automation, and cloud fundamentals to build more scalable and efficient systems. <br>You can ask me about REST APIs, debugging, project structuring, and applying software engineering best practices in real projects. <br>Fun fact: I like breaking systems to understand edge cases—and fixing them properly.
+I'm a Software Engineer focused on building **backend, full-stack, cloud, and GenAI applications**, with experience across modern software development, APIs, databases, cloud infrastructure, and LLM-powered systems.
+
+## 💫 About Me:
+
+- 🔭 I’m currently working on **backend and GenAI applications, APIs, and cloud-based software systems**
+- 🌱 I’m currently learning more about **scalable backend architecture, cloud infrastructure, automation, and AI application engineering**
+- 👯 I’m looking to collaborate on **software engineering, backend, full-stack, cloud, and GenAI projects**
+- 💬 Ask me about **backend development, REST APIs, microservices, databases, cloud/DevOps, and GenAI applications**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/vikas-gowda-s)**
+- ⚡ Fun fact: **I like breaking systems to understand edge cases—and fixing them properly.**
 
 
 ## 🌐 Socials:
